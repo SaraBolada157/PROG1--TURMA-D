@@ -1,7 +1,9 @@
-.cabeçalho {
-    background-color: blueviolet;
-    color: beige;
-    width: auto;
-    display: block;
-    justify-content: center;
+.cabeçalho{
+    color: bisque;
+    background-color: blue;
+}
+
+.paragrafo-introdução{
+    color: blueviolet;
+    background-color: beige;
 }

@@ -1,9 +1,10 @@
 .cabeçalho{
-    color: bisque;
-    background-color: blue;
+    color: black;
+    background-color: lightpink;
+    justify-content: center;
 }
 
 .paragrafo-introdução{
-    color: blueviolet;
-    background-color: beige;
+    color: black;
+    background-color: rgb(248, 193, 206);
 }

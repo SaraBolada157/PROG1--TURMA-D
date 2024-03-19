@@ -1,8 +1,7 @@
 .cabeçalho {
     background-color: blueviolet;
     color: beige;
-    margin: 0px;
-    width: 0%;
-    display: flex;
-    justify-content: right;
+    width: auto;
+    display: block;
+    justify-content: center;
 }

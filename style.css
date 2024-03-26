@@ -8,3 +8,9 @@
     color: black;
     background-color: rgb(248, 193, 206);
 }
+.lista_paginas_secundarias{
+    display:inline-block
+}
+.corpo_pagina{
+    background-color: rgba(247, 174, 174, 0.726);
+}

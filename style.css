@@ -2,27 +2,31 @@
     margin: 0%;
     padding:0%;
 }
-.cabeçalho{
-    color: black;
-    background-color: lightpink;
-    font-size: 60px;
+.corpo_site {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 206, 213);
+}
+.cabeçalho {
     text-align: center;
 }
-
-.paragrafo-introdução{
-    color: black;
-    background-color: rgb(248, 193, 206);
+.cabeçalho_titulo {
+    font-size: 100px;
+}
+.cabeçalho_subtitulo {
+    font-size: 40px;
+}
+.introdução {
+    text-align: center;
     text-align: justify;
-    margin: 20px;
-    padding: 20px;
+    padding: 15px;
+}
+.paragrafo-introdução {
     font-size: 30px;
 }
-.lista_paginas_secundarias{
-    display:inline-block
-}
-.corpo_pagina{
-    background-color: rgba(247, 174, 174, 0.726);
-}
-.foto_turma{
+.foto_turma {
     width: 100%;
+}
+.paginassecundarias {
+    display: inline-block;
+    font-size: 20px;
 }
